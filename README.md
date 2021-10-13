@@ -3,6 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-5263681aa/)](https://www.linkedin.com/in/gabriel-lima-5263681aa/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriellimamoraes@gmail.com)](mailto:gabriellimamoraes@gmail.com/)
 
+ Experiência freelance
+- Desenvolvedor WEB - frontend e backend - NodeJS, Typescript, Java
+- Automação web com python - selenium
+- Mais de 17 trabalhos desenvolvidos, sendo eles chatbot's discord - python
+- Aplicação .NET com interação em python - c# e python
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
