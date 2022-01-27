@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriellimamoraes@gmail.com)](mailto:gabriellimamoraes@gmail.com/)
 
  Experiência freelances
-- Desenvolvedor WEB - frontend e backend - NodeJS, Typescript, Java
+- Desenvolvedor WEB - frontend e backend - NodeJS, Typescript, Java, PHP
 - Automação web com python - selenium
 - Mais de 17 trabalhos desenvolvidos, sendo eles chatbot's discord - python
 - Aplicação .NET com interação em python - c# e python
