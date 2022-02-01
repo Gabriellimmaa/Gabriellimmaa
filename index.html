@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+    <meta name="title" content="Gabriel Lima - Portifólio">
+    <meta property="og:site_name" content="Gabriel Lima - Portifólio">
+    <meta property="og:locale" content="pt_BR">
+    <meta name="theme-color" content="#181414" />
+    <meta name="keywords" content="Gabriel Lima, gabriel lima, gabriel lima portifólio, Gabriel Lima Portifólio, Gabriel Lima De Moraes, gabriel lima de moraes">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <meta name="viewport" content="width=device-width" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&amp;display=swap" rel="stylesheet">
+    <link rel='icon' href="public/img/logo.png">
+    <link rel="stylesheet" href="public/css/header.css">
+    <link rel="stylesheet" href="public/css/competencia.css">
+    <link rel="stylesheet" type="text/css" href="node_modules/slick-carousel/slick/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="node_modules/slick-carousel/slick/slick.css">
+    <link href="node_modules/select2/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="node_modules/halfmoon/css/halfmoon.min.css" rel="stylesheet" />
+    <link href="node_modules/halfmoon/css/halfmoon-variables.css" rel="stylesheet" />
+    <link href="node_modules/%40fortawesome/fontawesome-free/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="node_modules/magnific-popup/dist/magnific-popup.css" crossorigin="anonymous" />
+
+    <script src="node_modules/halfmoon/js/halfmoon.min.js"></script>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/vanilla-lazyload/dist/lazyload.min.js"></script>
+    <script src="node_modules/slick-carousel/slick/slick.min.js"></script>
+    <script src="node_modules/select2/dist/js/select2.min.js"></script>
+    <script src="node_modules/magnific-popup/dist/jquery.magnific-popup.min.js" crossorigin="anonymous"></script>
+
+    <title>Gabriel Lima - Portifólio</title>
+</head>
+<link rel="stylesheet" href="public/css/index.css">
+<link rel="preconnect" href="https://fonts.gstatic.com/">
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Work+Sans:300,400,700" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="public/index/css/magnific-popup.css">
+<link rel="stylesheet" href="public/index/css/jquery-ui.css">
+<link rel="stylesheet" href="public/index/css/owl.carousel.min.css">
+<link rel="stylesheet" href="public/index/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="public/index/css/animate.css">
+<link href="../unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
+
+<body>
+    <script>
+        $(window).scroll(function() {
+            if ($(this).scrollTop()) {
+                $('#btn-top').fadeIn();
+            } else {
+                $('#btn-top').fadeOut();
+            }
+        });
+
+        if (window.history.replaceState) {
+            window.history.replaceState(null, null, window.location.href);
+        }
+
+        var perfEntries = performance.getEntriesByType(" navigation ");
+
+        if (perfEntries[0].type === " back_forward ") {
+            location.reload(true);
+        }
+
+        function goToAnchor(anchor) {
+            var loc = document.location.toString().split('#')[0];
+            document.location = loc + '#' + anchor;
+            return false;
+        }
+    </script>
+
+    <div class="page-wrapper with-navbar dark-mode">
+        <link rel="stylesheet" href="public/css/navbar.css">
+        <button id="btn-top" title="Voltar para o topo" onclick="goToAnchor('inicio')"><i class="fas fa-arrow-up"></i></button>
+        <nav class="navbar">
+            <div class="container">
+                <a href="#inicio" class="navbar-brand bowlby-font">
+                    <img src="public/img/logo.png" class="w-md-50 w-25" style="height: auto !important;">
+                </a>
+                <ul class="navbar-nav d-none d-md-flex titillium-font font-weight-normal" id="desktop-nav">
+                    <li class="nav-item">
+                        <a href="#sobre" class="nav-link text-uppercase">Sobre</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#projetos" class="nav-link text-uppercase">Projetos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#competencias" class="nav-link text-uppercase">Competências</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#certificacoes" class="nav-link text-uppercase">Certificações</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contato" class="nav-link text-uppercase">Contato</a>
+                    </li>
+                </ul>
+
+                <div class="navbar-content d-md-none ml-auto">
+                    <div class="dropdown with-arrow">
+                        <button class="btn" data-toggle="dropdown" type="button" id="navbar-dropdown-toggle-btn-1">
+                            <div class="align-middle">
+                                Menu
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </div>
+                        </button>
+                        <div class="dropdown-menu dropdown-menu-right w-200 titillium-font" aria-labelledby="navbar-dropdown-toggle-btn-1">
+                            <div id="mobile-nav">
+                                <a href="#sobre" class="nav-link text-uppercase">Sobre</a>
+                                <a href="#projetos" class="nav-link text-uppercase">Projetos</a>
+                                <a href="#competencias" class="nav-link text-uppercase">Competências</a>
+                                <a href="#certificacoes" class="nav-link text-uppercase">Certificações</a>
+                                <a href="#contato" class="nav-link text-uppercase">Contato</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div id="inicio" class=" site-wrap ">
+        <div class="home-slider ">
+            <div class=" site-blocks-cover inner-page overlay " style=" background-image: url(public/img/index/img_1.gif); ">
+                <div class=" container ">
+                    <div class=" row align-items-center justify-content-center ">
+                        <div class=" col-md-6 text-center " data-aos=" fade ">
+                            <h1 class="font-secondary font-weight-bold text-black " style="margin-bottom: 0 ">GABRIEL LIMA
+                                <h5 class=" font-secondary text-black " style="margin-top: 0 ">DEV</h5>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=" slant-1 shadow-sm "></div>
+        <div style="margin-top: 0 " class=" first-section site-section mb-20 ">
+            <div id="sobre" class=" row mb-0 p-0 mt-20 ">
+                <div class=" col-md-6 col-12 " data-aos=" fade-up " data-aos-delay=" ">
+                    <img class=" img-fluid " src=" public/img/index/img_5.jpg ">
+                </div>
+                <div class=" col-md-6 col-12 " data-aos=" fade-up " data-aos-delay=" 300 ">
+                    <div class=" row h-full ">
+                        <div class=" col-md-6 col-12 m-auto p-md-0 p-20 ">
+                            <h2 class=" site-section-heading text-uppercase font-secondary mb-5 ">Sobre mim</h2>
+                            <div class=" font-size-12 ">
+                                <p>Olá, me chamo <b>Gabriel Lima de Moraes</b> tenho 19 anos. Moro em uma cidade no interior de São Paulo, aqui não tenho muitas referências para me tornar um bom dev, porém decidi essa área desde cedo. Comecei a programar
+                                    aos 14 anos e isso tornou-se a minha profissão e sou apaixonado pelo que faço. Atualmente estou focado no desenvolvimento web e automação. Passo boa parte do meu tempo a me dedicar aos estudos, sempre a aplicar os meus
+                                    conhecimentos em projetos pessoais e colaborando com outros colegas. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" row mt-0 p-0 ">
+                <div class=" col-md-6 col-12 " data-aos=" fade-up " data-aos-delay=" 300 ">
+                    <div class=" row h-full ">
+                        <div class=" col-md-6 col-12 m-auto p-md-0 p-20 ">
+                            <h2 class=" site-section-heading text-uppercase font-secondary mb-5 ">Experiência</h2>
+                            <div class=" font-size-12 ">
+                                <p>Aos 17 anos desenvolvi um software que explorava a API do discord (uma tools com mais de 13 funções), esse projeto foi um sucesso, tive mais de 380 clientes porém resolvi parar com o mesmo pois ia contra as diretrizes da
+                                    plataforma e a api deles estavam quebrando o projeto por ser "ilegal ". O software foi desenvolvido em .NET e Python, nesse meio tempo aprendi muito sobre encriptação de código fonte, engenharia reversa e desenvolvimento
+                                    de malware, pois esse meu software chegou a ser hackeado umas 5 vezes em 2 anos. Fora isso, desenvolvi o OnMaps um site que contem o mapeamento online do campus da UENP (Universidade Estadual Norte do Paraná), ganhamos
+                                    em terceiro lugar no evento da Genius Con 2021 Hackathon.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=" col-md-6 col-12 " data-aos=" fade-up " data-aos-delay=" ">
+                    <img class=" img-fluid " src=" public/img/index/img_6.jpeg ">
+                </div>
+            </div>
+            <div id="projetos" style="padding-bottom: 0 " class=" site-section mt-20 " data-aos=" fade ">
+                <div class=" container p-md-20 ">
+                    <div class=" row ">
+                        <div class=" col-md-12 text-center ">
+                            <span class=" caption d-block mb-2 font-secondary font-weight-bold ">Galeria</span>
+                            <h2 class=" site-section-heading text-uppercase text-center font-secondary ">Esses são alguns projetos destaques</h2>
+                        </div>
+                    </div>
+                    <div class=" row p-md-20 pt-md-0 " data-aos=" fade-up " data-aos-delay=" 100 ">
+                        <div class=" col-md-12 block-13 nav-direction-white p-md-20 pt-md-0 ">
+                            <div class=" container p-md-20 ">
+                                <div class=" nonloop-block-13 owl-carousel p-md-20 pt-md-0 ">
+                                    <div class=" media-image ">
+                                        <img data-src=" https://cdn.discordapp.com/attachments/771470980324524043/938001222416338984/unknown.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">OnMaps</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="">🏆 Terceiro lugar no hackathon promovido pela Genius.Conecta 2021.</span>
+                                            </div>
+                                            <p>
+                                                <a href="https://github.com/Gabriellimmaa/remapeando-campus-frontend" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class=" media-image ">
+                                        <img data-src="https://cdn.discordapp.com/attachments/771470980324524043/938001362116018216/unknown.png" class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">Launcher Alliance</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="">Software privado voltado para o discord, +380 vendas</span>
+                                            </div>
+                                            <p>
+                                                <a href="https://sites.google.com/view/discord-alliance/launcher-alliance/valores-dos-produtos?authuser=0" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class=" media-image ">
+                                        <img data-src="https://cdn.discordapp.com/attachments/771470980324524043/938001877684060191/unknown.png" class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">Dev Week Santander</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="  ">Projeto desenvolvido na dev week santander 2020</span>
+                                            </div>
+                                            <p>
+                                                <a href="https://github.com/Gabriellimmaa/dev-week-santander-frontend" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class=" media-image ">
+                                        <img data-src="https://cdn.discordapp.com/attachments/771470980324524043/938001786088865843/unknown.png" class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">Alliance Security</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="  ">Chat bot desenvolvido para o discord com moderação e segurança, está em +900 servidores</span>
+                                            </div>
+                                            <p>
+                                                <a href="https://github.com/Gabriellimmaa/Alliance-Security" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class=" media-image ">
+                                        <img data-src=" https://cdn.discordapp.com/attachments/771470980324524043/938002320212492398/unknown.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">BOT Brasil Roleplay</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="">Bot de economia com grandes informações e transações de dados utilizado por mais de 17.700 usuários</span>
+                                            </div>
+                                            <p>
+                                                <a href="https://discord.gg/brrp" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class=" media-image ">
+                                        <img data-src=" https://cdn.discordapp.com/attachments/771470980324524043/938003015217057812/unknown.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">Site brasil roleplay</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="  ">Site com autenticação do discord interativo com o BOT Brasil Roleplay</span>
+                                            </div>
+                                            <p>
+                                                <a href="" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class=" media-image ">
+                                        <img data-src=" https://cdn.discordapp.com/attachments/771470980324524043/938002487263248425/unknown.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                        <div class=" media-image-body ">
+                                            <div class=" row " style=" height: 5rem; ">
+                                                <h2 class=" text-uppercase font-size-20 mt-0 ">Whitelist's Roleplay</h2>
+                                            </div>
+                                            <div class=" row ">
+                                                <span class="  ">Gerador de formulário voltado para servidores de Roleplay</span>
+                                            </div>
+                                            <p>
+                                                <a href="" target=" _blank " class=" btn btn-blue btn-xs text-white ">Mais informação</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="competencias" class=" mt-20 " data-aos=" fade ">
+                <div class=" slant-2 shadow-sm "></div>
+                <div class=" container p-md-20 ">
+                    <div class=" row ">
+                        <div class=" col-md-12 text-center ">
+                            <span class=" caption d-block mb-2 font-secondary font-weight-bold ">competências</span>
+                            <h2 class=" site-section-heading text-uppercase text-center font-secondary ">grau de afinidade com as tecnologias</h2>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col ">
+                            <div class="containerBar ">
+                                <p>Frontend</p>
+                                <div class="LoadingBar90 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>Backend</p>
+                                <div class="LoadingBar75 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>CSS</p>
+                                <div class="LoadingBar85 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>Javascript</p>
+                                <div class="LoadingBar60 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>Typescript</p>
+                                <div class="LoadingBar50 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>PHP</p>
+                                <div class="LoadingBar85 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>React</p>
+                                <div class="LoadingBar30 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>NodeJS</p>
+                                <div class="LoadingBar20 "></div>
+                            </div>
+                        </div>
+                        <div class="col ">
+                            <div class="containerBar ">
+                                <p>Python</p>
+                                <div class="LoadingBar95 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>Java</p>
+                                <div class="LoadingBar75 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>C#</p>
+                                <div class="LoadingBar85 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>C/C++</p>
+                                <div class="LoadingBar60 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>Mysql</p>
+                                <div class="LoadingBar85 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>MongoDB</p>
+                                <div class="LoadingBar95 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>PostgreSQL</p>
+                                <div class="LoadingBar60 "></div>
+                            </div>
+                            <div class="containerBar ">
+                                <p>SQL</p>
+                                <div class="LoadingBar75 "></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="certificacoes" class=" site-section section-counter ">
+                <div class=" container p-md-20 ">
+                    <div class=" row p-md-20 ">
+                        <div class=" col-lg-6 ">
+                            <div class=" row p-md-20 pt-md-0 " data-aos=" fade-up " data-aos-delay=" 100 ">
+                                <div class=" col-md-12 block-13 nav-direction-white p-md-20 pt-md-0 ">
+                                    <div class=" container p-md-20 ">
+                                        <div class=" nonloop-block-13 owl-carousel p-md-20 pt-md-0 ">
+                                            <a href="public/certificados/inglês.jpeg ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/jpg.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Inglês Wizard</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/mongodb.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">MongoDB</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/desing grafico.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">DesignGráfico</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/C-C++.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">C/C++</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Introdução ao React Native.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Introdução React Native</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Introdução ao Laravel.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Introdução Laravel</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/git e github.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Git e Github</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Inteligência Artificial.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Inteligência Artificial</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/DevOps.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">DevOps</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Data Science e suas aplicações.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">DataScience</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Privacidade de Dados.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Privacidade de Dados</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Redes Neurais Convolucionais.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Redes Neurais Convolucionais</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/hardware e manutencao.png ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/jpg.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Hardware - Montagem e Manutenção</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Microsoft Excel.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Microsoft Excel</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/logica de programacao.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Lógica de Programação</p>
+                                                </div>
+                                            </a>
+                                            <a href="public/certificados/Introdução Prática à Machine Learning.pdf " target="_blank ">
+                                                <div class=" media-image ">
+                                                    <img data-src="public/img/pdf.png " class=" img-fluid lazy " style=" width: 100% !important; object-fit: contain; max-height: 17rem; min-height: 17rem; ">
+                                                    <p class="text-center ">Machine Learning</p>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" col-lg-5 ml-auto p-md-0 p-20 ">
+                            <h2 class=" site-section-heading font-secondary text-uppercase mb-0 ">Certificações</h2>
+                            <div class=" row " style="margin-top: 20px ">
+                                <div class=" col-lg-6 ">
+                                    <div class=" counter ">
+                                        <span class=" caption ">Quantidade</span>
+                                        <span class=" number " data-number=" 17 ">0</span>
+                                    </div>
+                                </div>
+                                <div class=" col-lg-6 ">
+                                    <div class=" counter ">
+                                        <span class=" caption ">Total de horas</span>
+                                        <span class=" number " data-number=" 402 ">0</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" row ">
+                                <div class=" col-lg-6 ">
+                                    <div class=" counter ">
+                                        <span class=" caption ">Em 2020</span>
+                                        <span class=" number " data-number=" 9 ">0</span>
+                                    </div>
+                                </div>
+                                <div class=" col-lg-6 ">
+                                    <div class=" counter ">
+                                        <span class=" caption ">Em 2021</span>
+                                        <span class=" number " data-number=" 6 ">0</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="contato" class=" container p-md-20">
+                <div class=" col-md-12 text-center " data-aos=" fade " data-aos-delay=" ">
+                    <h2 class=" site-section-heading text-uppercase text-center text-white font-secondary ">COntato</h2>
+                </div>
+                <div class="contact row justify-content-center ">
+                    <a href="https://github.com/Gabriellimmaa" target="_blank">
+                        <div class="backimg ">
+                            <img src=" public/img/logos/github.png " style=" border-radius: 5px; width: 7rem; ">
+                        </div>
+                    </a>
+                    <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
+                        <div class="backimg ">
+                            <img src=" public/img/logos/linkedin.png " style=" border-radius: 5px; width: 7rem; ">
+                        </div>
+                    </a>
+                    <a href="https://discord.gg/f3vqyrTh" target="_blank">
+                        <div class="backimg ">
+                            <img src=" public/img/logos/discord.png " style=" border-radius: 5px; width: 7rem; ">
+                        </div>
+                    </a>
+                    <a href="mailto:gabriellimamoraes@gmail.com" target="_blank">
+                        <div class="backimg ">
+                            <img src=" public/img/logos/email.png " style=" border-radius: 5px; width: 7rem; ">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <footer class="site-footer ">
+        <div class=" container ">
+            <p>
+                Copyright &copy;2020-
+                <script>
+                    document.write(new Date().getFullYear());
+                </script> Todos os direitos reservados | <span class=" text-white ">Gabriel Lima</span></a>
+            </p>
+    </footer>
+
+    <script src=" public/index/js/jquery-migrate-3.0.1.min.js "></script>
+    <script src=" public/index/js/owl.carousel.min.js "></script>
+    <script src=" public/index/js/jquery.stellar.min.js "></script>
+    <script src=" public/index/js/jquery.waypoints.min.js "></script>
+    <script src=" public/index/js/jquery.animateNumber.min.js "></script>
+    <script src=" public/unpkg.com/aos%402.3.1/dist/aos.js "></script>
+    <script src=" public/index/js/main.js "></script>
+    <script>
+        AOS.init();
+        $(document).ready(function() {
+            const lazyBackground = new LazyLoad();
+        });
+    </script>
+</body>
+</body>
+</body>
