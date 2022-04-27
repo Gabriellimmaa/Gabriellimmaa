@@ -1,16 +1,16 @@
-# Bem vindo ao meu GITHUB
+# Welcome to my GITHUB
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-5263681aa/)](https://www.linkedin.com/in/gabriel-lima-5263681aa/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriellimamoraes@gmail.com)](mailto:gabriellimamoraes@gmail.com/)
 
-Meu site:
+My website:
 https://gabriellimmaa.github.io/my-website/
 
- Experiência freelances
-- Desenvolvedor WEB - frontend e backend - NodeJS, Typescript, Java, PHP
-- Automação web com python - selenium
-- Mais de 17 trabalhos desenvolvidos, sendo eles chatbot's discord - python
-- Aplicação .NET com interação em python - c# e python
+Experience:
+- Fullstack web developer - NodeJS, Typescript, JS, PHP, React
+- Web automation with python - selenium
+- Chatbot's discord - more than 20 works developed
+- Software development - c# .NET, python, java
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
