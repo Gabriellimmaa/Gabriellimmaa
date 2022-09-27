@@ -1,28 +1,53 @@
-# Welcome to my GITHUB
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-5263681aa/)](https://www.linkedin.com/in/gabriel-lima-5263681aa/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriellimamoraes@gmail.com)](mailto:gabriellimamoraes@gmail.com/)
-
 My portfolio:
 https://gabriellimmaa.github.io/portfolio/
 
-Experience:
-- Fullstack web developer - NodeJS, Typescript, JS, PHP, React
-- Web automation with python - selenium
-- Chatbot's discord - more than 20 works developed
-- Software development - c# .NET, python, java
+### Welcome to my GITHUB! :wave:
+My name is Gabriel Lima de Moraes, I'm 20 years old and I'm currently studying computer science at UENP (Northern Paraná State University)
+I am passionate about development in general, I study
+programming since the age of 15, with an emphasis on development
+frontend at the moment.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-VSCODE" height="30" width=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
- </div><br>
+## :large_blue_diamond: Experience
+I have 4 years of experience as a freelancer, I have developed more than 50 projects for which I have been paid, including websites, automation, chatbots and software. I also had a personal project where I got more than 200 clients.
 
+## :large_blue_diamond: Stack
+<b>Stack:</b> Typescript, Javascript, PHP, Python</br>
+<b>Framework:</b> Vite, Next, Laravel</br>
+<b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
+<b>Libraries:</b> TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium
 
-[![Gabriellimmaa github stats](https://github-readme-stats.vercel.app/api?username=Gabriellimmaa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Gabriellimmaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellimmaa&layout=compact&theme=tokyonight)](https://github.com/Gabriellimmaa)
+## :large_blue_diamond: Practices and domains
+I have good practices with: 
+- git
+- github
+- design
+- API consumption
+- clean code
+- componentization
+
+## :large_blue_diamond: Contact
+<b>E-mail:</b> gabriellimamoraes@gmail.com </br>
+<b>LinkedIn:</b> [Click here](https://www.linkedin.com/in/gabriel-lima-5263681aa/)</br>
+<b>Cell and Whatsapp:</b> (14) 99739-1223 </br>
+
+## :large_blue_diamond: Github Info
+<details>
+  <summary><b>Github Stats</b></summary>
+  </br>
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Gabriel Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielLimmaa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimmaa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <br/>
+  </div>
+  
+  <summary><b>🔎 Github Profile Details</b></summary>
+  </br>
+  <diV>
+
+  <div align="center">
+<a href="#"><img alt="Gabriel Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabriellimmaa&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)" height="200"/></a>
+<a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellimmaa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)" height="200"/></a>
+    <br/>
+  </div>
