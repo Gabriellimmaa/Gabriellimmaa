@@ -1,7 +1,7 @@
 My portfolio:
 https://gabriellimmaa.github.io/portfolio/
 
-### Welcome to my GITHUB! :wave:
+### :large_blue_diamond: Welcome to my GITHUB! :wave:
 My name is Gabriel Lima de Moraes, I'm 20 years old and I'm currently studying computer science at UENP (Northern Paraná State University)
 I am passionate about development in general, I study
 programming since the age of 15, with an emphasis on development
