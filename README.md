@@ -16,24 +16,12 @@ I have 4 years of experience as a freelancer, I have developed more than 50 proj
 <b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
 <b>Libraries:</b> TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium
 
-## :large_blue_diamond: Practices and domains
-I have good practices with: 
-- git
-- github
-- design
-- API consumption
-- clean code
-- componentization
-
 ## :large_blue_diamond: Contact
 <b>E-mail:</b> gabriellimamoraes@gmail.com </br>
 <b>LinkedIn:</b> [Click here](https://www.linkedin.com/in/gabriel-lima-5263681aa/)</br>
 <b>Cell and Whatsapp:</b> (14) 99739-1223 </br>
 
 ## :large_blue_diamond: Github Info
-<details>
-  <summary><b>Github Stats</b></summary>
-  </br>
 <diV>
 
   <div align="center">
@@ -41,13 +29,5 @@ I have good practices with:
     <a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimmaa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <br/>
   </div>
-  
-  <summary><b>🔎 Github Profile Details</b></summary>
-  </br>
+    </br>
   <diV>
-
-  <div align="center">
-<a href="#"><img alt="Gabriel Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabriellimmaa&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)" height="200"/></a>
-<a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellimmaa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)" height="200"/></a>
-    <br/>
-  </div>
