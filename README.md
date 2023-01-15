@@ -8,7 +8,7 @@ programming since the age of 15, with an emphasis on development
 frontend at the moment.
 
 ## :large_blue_diamond: Experience
-I have 4 years of experience as a freelancer, I have developed more than 50 projects for which I have been paid, including websites, automation, chatbots and software. I also had a personal project where I got more than 200 clients.
+I have 4 years of experience as a freelancer, I have developed more than 50 projects for which I have been paid, including websites, apps, automation, chatbots and software. I also had a personal project where I got more than 200 clients.
 
 ## :large_blue_diamond: Stack
 <b>Stack:</b> Typescript, Javascript, Python, PHP</br>
