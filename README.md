@@ -11,10 +11,10 @@ frontend at the moment.
 I have 4 years of experience as a freelancer, I have developed more than 50 projects for which I have been paid, including websites, automation, chatbots and software. I also had a personal project where I got more than 200 clients.
 
 ## :large_blue_diamond: Stack
-<b>Stack:</b> Typescript, Javascript, PHP, Python</br>
-<b>Framework:</b> Vite, Next, Laravel</br>
+<b>Stack:</b> Typescript, Javascript, Python, PHP</br>
+<b>Framework:</b> Vite, Next</br>
 <b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
-<b>Libraries:</b> TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium
+<b>Libraries:</b> TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium, Native Base, React Hook Form, Yup resolver...
 
 ## :large_blue_diamond: Contact
 <b>E-mail:</b> gabriellimamoraes@gmail.com </br>
