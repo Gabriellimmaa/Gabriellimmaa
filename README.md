@@ -14,7 +14,7 @@ I have 4 years of experience as a freelancer, I have developed more than 50 proj
 <b>Stack:</b> Typescript, Javascript, Python, PHP</br>
 <b>Framework:</b> Vite, Next</br>
 <b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
-<b>Libraries:</b> TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium, Native Base, React Hook Form, Yup resolver...
+<b>Libraries:</b> ReactJS, React Ntive, Material UI, TailwindCSS, StyledComponents, Bootstrap, Selenium, Native Base, React Hook Form, Yup resolver...
 
 ## :large_blue_diamond: Contact
 <b>E-mail:</b> gabriellimamoraes@gmail.com </br>
