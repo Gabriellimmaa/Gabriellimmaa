@@ -23,7 +23,7 @@
 <li>📝 Tenho um <a href="gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li>
 <li>💬 Gosto de conversar sobre <strong>react, design, IA e tecnologia</strong>.</li>
 <li>😁 Sou bem comunicativo.</li>
-<li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/assets/resume.pdf">currículo</a>.</li>
+<li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/resume.pdf" target="_blank">currículo</a>.</li>
 </ul>
 <h2>🚀 Tenho total domínio</h2>
 <div style="display: flex">
