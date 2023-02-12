@@ -1,20 +1,72 @@
-
-### :large_blue_diamond: Welcome to my GITHUB! :wave:
-My name is Gabriel Lima de Moraes, I'm 20 years old and I'm currently studying computer science at UENP (Northern Paraná State University)
-I am passionate about development in general, I study
-programming since the age of 15, with an emphasis on development
-frontend at the moment.
-
-## :large_blue_diamond: Experience
-I have 4 years of experience as a freelancer, I have developed more than 50 projects for which I have been paid, including websites, apps, automation, chatbots and software. I also had a personal project where I got more than 200 clients.
-
-## :large_blue_diamond: Stack
-<b>Stack:</b> Typescript, Javascript, Python, PHP</br>
-<b>Framework:</b> Vite, Next</br>
-<b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
-<b>Libraries:</b> ReactJS, React Ntive, Material UI, TailwindCSS, StyledComponents, Bootstrap, Selenium, Native Base, React Hook Form, Yup resolver...
-
-## :large_blue_diamond: Contact
-<b>E-mail:</b> gabriellimamoraes@gmail.com </br>
-<b>LinkedIn:</b> [Click here](https://www.linkedin.com/in/gabriel-lima-5263681aa/)</br>
-<b>Cell and Whatsapp:</b> (14) 99739-1223 </br>
+<h2>Opa 👋, me chamo Gabriel Lima</h2>
+<p>
+  Atualmente estou trabalhando como desenvolvedor frontend em dois projetos na OneConstruction, o OnePay com suas versões web/mobile. Estou desde o começo de todo o processo de desenvolvimento de ambas as aplicações juntamente com uma equipe de mais dois desenvolvedores.
+</p>
+<div style="display: flex">
+  <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="mailto:gabriellimamoraes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="instagram.com/gabriel._liima/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+<img align="right" src="https://github.com/Gabriellimmaa.png" style="border-radius: 50%;width: 250px;height: auto" />
+<h2>⚡️ Alguns fatos sobre mim</h2>
+<ul>
+<li>🏆 Fui premiado em <strong>4 hackathon's</strong> ambos com desenvolvimento <strong>web/mobile</strong></li>
+<li>🔭 Trabalho na <strong>OneConstructions</strong> como desenvolvedor frontend</li>
+<li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong></li>
+<li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a>.</li>
+<li>📝 Tenho um <a href="gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li>
+<li>💬 Gosto de conversar sobre <strong>react, design, IA e tecnologia</strong>.</li>
+<li>😁 Sou bem comunicativo.</li>
+<li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/assets/resume.pdf">currículo</a>.</li>
+</ul>
+<h2>🚀 Tenho total domínio</h2>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+<h2>🚀 Tenho um breve conhecimento</h2>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
+</div>
+<h2>🏆 Premiações</h2>
+<ul>
+<li>🥇  <strong>1º AgroHackathon 2022 </strong> - Projeto: Agrolugue</li>
+<li>🥇  <strong>1º Frontend Hackathon 2022</strong> - Projeto: Turismo Bandeirantes</li>
+<li>🥈  <strong>2º HandsON Hackathon 2021</strong> - Projeto: OnMaps (Remapeando campus)</li>
+<li>🥉  <strong>3º GeniusCon Hackathon 2020</strong> - Projeto: OnMap</li>
+</ul>
+<h2>🔎 Detalhes Github</h2>
+  <div align="center">
+    <a href="#"><img alt="Gabriel Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabriellimmaa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellimmaa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabriellimmaa&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Lima" /> </p>
+    <br/>
+  </div>
