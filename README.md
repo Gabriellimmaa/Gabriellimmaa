@@ -20,7 +20,7 @@
 <li>🔭 Trabalho na <strong>OneConstructions</strong> como desenvolvedor frontend</li>
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong></li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a>.</li>
-<li>📝 Tenho um <a href="gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li>
+<li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li>
 <li>💬 Gosto de conversar sobre <strong>react, design, IA e tecnologia</strong>.</li>
 <li>😁 Sou bem comunicativo.</li>
 <li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/resume.pdf" target="_blank">currículo</a>.</li>
