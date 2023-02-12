@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<img align="right" src="https://github.com/Gabriellimmaa.png" style="border-radius: 50%;width: 250px;height: auto" />
+<img align="right" src="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/foto3.jpeg" style="border-radius: 50%;width: 250px;height: auto" />
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
 <li>🏆 Fui premiado em <strong>4 hackathon's</strong> ambos com desenvolvimento <strong>web/mobile</strong></li>
