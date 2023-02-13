@@ -61,7 +61,7 @@
 <li>🥇  <strong>1º AgroHackathon 2022 </strong> - Projeto: Agrolugue</li>
 <li>🥇  <strong>1º Frontend Hackathon 2022</strong> - Projeto: Turismo Bandeirantes</li>
 <li>🥈  <strong>2º HandsON Hackathon 2021</strong> - Projeto: OnMaps (Remapeando campus)</li>
-<li>🥉  <strong>3º GeniusCon Hackathon 2020</strong> - Projeto: OnMap</li>
+<li>🥉  <strong>3º GeniusCon Hackathon 2020</strong> - Projeto: OnMaps</li>
 </ul>
 <h2>🔎 Detalhes Github</h2>
   <div align="center">
