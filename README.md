@@ -18,7 +18,7 @@
 <ul>
 <li>🏆 Fui premiado em <strong>4 hackathon's</strong> ambos com desenvolvimento <strong>web/mobile</strong></li>
 <li>🔭 Trabalho na <strong>OneConstructions</strong> como desenvolvedor frontend</li>
-<li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong></li>
+<li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2020-2024)</li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a>.</li>
 <li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li>
 <li>💬 Gosto de conversar sobre <strong>react, design, IA e tecnologia</strong>.</li>
