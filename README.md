@@ -1,6 +1,9 @@
 <h2>Opa 👋, me chamo Gabriel Lima</h2>
 <p>
-  Atualmente estou trabalhando como desenvolvedor frontend em dois projetos na OneConstruction, o OnePay com suas versões web/mobile. Estou desde o começo de todo o processo de desenvolvimento de ambas as aplicações juntamente com uma equipe de mais dois desenvolvedores.
+  Atualmente estou trabalhando como desenvolvedor frontend em dois projetos na OneConstruction, o OnePay com suas versões web/mobile. Estou desde o começo de todo o processo de desenvolvimento de ambas as aplicações. 
+</p>
+<p>
+  Sou um desenvolvedor encarregado de criar uma plataforma para um projeto da Universidade Sem Fronteiras. Nossa missão é mapear bairros usando drones e gerenciar esses dados por meio da plataforma. O objetivo principal é facilitar o trabalho dos agentes de endemia, otimizando todo o fluxo de suas atividades.
 </p>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
@@ -20,7 +23,7 @@
 <li>🔭 Trabalho na <strong>OneConstructions</strong> como desenvolvedor frontend</li>
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2020-2024)</li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a>.</li>
-<li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li>
+<!-- <li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li> -->
 <li>💬 Gosto de conversar sobre <strong>react, design, IA e tecnologia</strong>.</li>
 <li>😁 Sou bem comunicativo.</li>
 <li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/resume.pdf" target="_blank">currículo</a>.</li>
@@ -44,28 +47,28 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
 <h2>🚀 Tenho um breve conhecimento</h2>
 <div style="display: flex">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
 </div>
 <h2>🏆 Premiações</h2>
 <ul>
-<li>🥇  <strong>1º GeniusCon Hackathon 2022 </strong> - Projeto: Agrolugue</li>
+<li>🥇  <strong>1º GeniusCon Hackathon 2022 (SEBRAE)</strong> - Projeto: Agrolugue</li>
 <li>🥇  <strong>1º Frontend Hackathon 2022</strong> - Projeto: Turismo Bandeirantes</li>
 <li>🥈  <strong>2º HandsON Hackathon 2020</strong> - Projeto: OnMaps (Remapeando campus)</li>
-<li>🥉  <strong>3º GeniusCon Hackathon 2020</strong> - Projeto: OnMaps</li>
-<li>🥉  <strong>3º GeniusCon Hackathon 2023</strong> - Projeto: PragaGestão</li>
+<li>🥉  <strong>3º GeniusCon Hackathon 2020 (SEBRAE)</strong> - Projeto: OnMaps</li>
+<li>🥉  <strong>3º GeniusCon Hackathon 2023 (SEBRAE)</strong> - Projeto: PragaGestão</li>
 </ul>
 <h2>🔎 Detalhes Github</h2>
   <div align="center">
