@@ -3,7 +3,7 @@
   Atualmente estou trabalhando como desenvolvedor frontend em dois projetos na OneConstruction, o OnePay com suas versões web/mobile. Estou desde o começo de todo o processo de desenvolvimento de ambas as aplicações. 
 </p>
 <p>
-  Sou um desenvolvedor encarregado de criar uma plataforma para um projeto da Universidade Sem Fronteiras. Nossa missão é mapear bairros usando drones e gerenciar esses dados por meio da plataforma. O objetivo principal é facilitar o trabalho dos agentes de endemia, otimizando todo o fluxo de suas atividades.
+  Sou desenvolvedor encarregado de criar uma plataforma para um projeto da Universidade Sem Fronteiras. Nossa missão é mapear bairros usando drones e gerenciar esses dados por meio da plataforma. O objetivo principal é facilitar o trabalho dos agentes de endemia, otimizando todo o fluxo de suas atividades.
 </p>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
@@ -20,13 +20,15 @@
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
 <li>🏆 Fui premiado em <strong>5 hackathon's</strong> ambos com desenvolvimento <strong>web/mobile</strong></li>
-<li>🔭 Trabalho na <strong>OnePay</strong> como desenvolvedor frontend web/mobile</li>
+<li>💼 Trabalho na <strong>OnePay</strong> como desenvolvedor frontend web/mobile</li>
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2020-2024)</li>
-<li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a>.</li>
-<!-- <li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a>.</li> -->
-<li>💬 Gosto de conversar sobre <strong>react, design, IA e tecnologia</strong>.</li>
-<li>😁 Sou bem comunicativo.</li>
-<li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/resume.pdf" target="_blank">currículo</a>.</li>
+<li>💻 Fui <strong>gerente de projeto</strong> na <strong>SetupJR</strong> (2022-2024)</li>
+<li>🌎 Atuei como <strong>desenvolvedor</strong> em dois projetos da <strong>Universidade Sem Fronteiras</strong></li>
+<li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a></li>
+<!-- <li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a></li> -->
+<li>💬 Gosto de conversar sobre <strong>tecnologia, crescimento pessoal e empreendedorismo</strong></li>
+<li>😁 Sou bem comunicativo</li>
+<li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/resume.pdf" target="_blank">currículo</a></li>
 </ul>
 <h2>🚀 Tenho total domínio</h2>
 <div style="display: flex">
