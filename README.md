@@ -21,8 +21,8 @@
 <ul>
 <li>🏆 Fui premiado em <strong>5 hackathon's</strong> ambos com desenvolvimento <strong>web/mobile</strong></li>
 <li>💼 Trabalho na <strong>OnePay</strong> como desenvolvedor frontend web/mobile</li>
-<li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2020-2024)</li>
-<li>💻 Fui <strong>gerente de projeto</strong> na <strong>SetupJR</strong> (2022-2024)</li>
+<li>🧐 Curso <strong>ciência da computação</strong> na <strong>UENP</strong> (2020-2023)</li>
+<li>💻 Fui <strong>gerente de projeto</strong> na <strong>SetupJR</strong> (2022-2023)</li>
 <li>🌎 Atuei como <strong>desenvolvedor</strong> em dois projetos da <strong>Universidade Sem Fronteiras</strong></li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a></li>
 <!-- <li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a></li> -->
