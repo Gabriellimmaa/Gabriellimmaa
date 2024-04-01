@@ -69,6 +69,7 @@
 <li>🥈  <strong>2º HandsON Hackathon 2021</strong> - Projeto: OnMaps (Remapeando campus)</li>
 <li>🥉  <strong>3º GeniusCon Hackathon 2021 (SEBRAE)</strong> - Projeto: OnMaps</li>
 <li>🥉  <strong>3º GeniusCon Hackathon 2023 (SEBRAE)</strong> - Projeto: PragaGestão</li>
+<li>🥉  <strong>4º Optimism Blockchain Hackathon 2024 (NearX)</strong> - Projeto: NFT Access Control - Nível Nacional</li>
 </ul>
 <h2>🔎 Detalhes Github</h2>
   <div align="center">
