@@ -1,10 +1,13 @@
 <h2>Opa 👋, me chamo Gabriel Lima</h2>
 <p>
-  Atualmente estou trabalhando como desenvolvedor frontend em dois projetos na OneConstruction, o OnePay com suas versões web/mobile. Estou desde o começo de todo o processo de desenvolvimento de ambas as aplicações. 
+  💻 Desenvolvedor FullStack & Mobile apaixonado por criar experiências digitais intuitivas e escaláveis. Bacharel em Ciência da Computação pela Universidade Estadual do Norte do Paraná, comecei minha trajetória na tecnologia aos 18 anos, já com um software em uso por mais de 200 clientes.
 </p>
 <p>
-  Sou desenvolvedor encarregado de criar uma plataforma para um projeto da Universidade Sem Fronteiras. Nossa missão é mapear bairros usando drones e gerenciar esses dados por meio da plataforma. O objetivo principal é facilitar o trabalho dos agentes de endemia, otimizando todo o fluxo de suas atividades.
+  🚀 Ao longo da graduação, acumulei 6 premiações em hackathons, desenvolvi 20+ projetos, participei de três projetos de extensão e fui gerente de projeto na SetupJr, sempre focado na criação de plataformas inovadoras.
 </p>
+<p>
+  📌 Atualmente, dedico-me ao desenvolvimento de aplicações web e mobile, combinando performance, usabilidade e design para entregar soluções eficientes e de alto impacto. Busco sempre aprimorar minhas habilidades e explorar novas tecnologias, transformando desafios em oportunidades.
+</p>  
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
