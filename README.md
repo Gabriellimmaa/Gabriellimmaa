@@ -1,13 +1,13 @@
-<h2>Opa 👋, me chamo Gabriel Lima</h2>
+<h2>Hey 👋, my name is Gabriel Lima</h2>
 <p>
-  💻 Desenvolvedor FullStack & Mobile apaixonado por criar experiências digitais intuitivas e escaláveis. Bacharel em Ciência da Computação pela Universidade Estadual do Norte do Paraná, comecei minha trajetória na tecnologia aos 18 anos, já com um software em uso por mais de 200 clientes.
+  💻 FullStack & Mobile Developer passionate about creating intuitive and scalable digital experiences. With a degree in Computer Science from the State University of Northern Paraná, I began my journey in technology at the age of 18, already with software in use by more than 200 clients.
 </p>
 <p>
-  🚀 Ao longo da graduação, acumulei 6 premiações em hackathons, desenvolvi 20+ projetos, participei de três projetos de extensão e fui gerente de projeto na SetupJr, sempre focado na criação de plataformas inovadoras.
+  🚀 During my undergraduate studies, I accumulated 6 awards in hackathons, developed 20+ projects, participated in three extension projects and was a project manager at SetupJr, always focused on creating innovative platforms.
 </p>
 <p>
-  📌 Atualmente, dedico-me ao desenvolvimento de aplicações web e mobile, combinando performance, usabilidade e design para entregar soluções eficientes e de alto impacto. Busco sempre aprimorar minhas habilidades e explorar novas tecnologias, transformando desafios em oportunidades.
-</p>  
+  📌 Currently, I dedicate myself to the development of web and mobile applications, combining performance, usability and design to deliver efficient and high-impact solutions. I always seek to improve my skills and explore new technologies, transforming challenges into opportunities.
+</p>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,45 +17,45 @@
   </a>
 </div>
 <img align="right" src="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/foto3.jpeg" style="border-radius: 50%;width: 250px;height: auto" />
-<h2>⚡️ Alguns fatos sobre mim</h2>
+<h2>⚡️ Some facts about me</h2>
 <ul>
-<li>🎓 Graduado em <strong>ciência da computação</strong> na <strong>UENP</strong> (2020-2023)</li>
-<li>🎓 Mestrando em <strong>ciência da computação</strong> na <strong>USP</strong> (2025-2026)</li>
-<li>🏆 Fui premiado em <strong>6 hackathon's</strong> ambos com desenvolvimento <strong>web/mobile</strong></li>
-<li>💼 Atualmente trabalho na <strong>Oneos</strong></li>
-<li>💻 Fui <strong>gerente de projeto</strong> na <strong>SetupJR</strong> (2022-2023)</li>
-<li>🌎 Atuei como <strong>desenvolvedor</strong> em dois projetos da <strong>Universidade Sem Fronteiras</strong></li>
-<li>🗺️ Países onde já atuei como desenvolvedor:
-  <ul>
-    <li>🇧🇷 Brasil</li>
-    <li>🇺🇸 Estados Unidos</li>
-    <li>🇵🇹 Portugal</li>
-    <li>🇦🇺 Austrália</li>
+<li>🎓 Graduated in <strong>computer science</strong> at <strong>UENP</strong> (2020-2023)</li>
+<li>🎓 Master's degree in <strong>computer science</strong> at <strong>USP</strong> (2025-2026)</li>
+<li>🏆 I was awarded in <strong>6 hackathons</strong>, both with <strong>web/mobile development</strong></li>
+<li>💼 I currently work at <strong>Oneos</strong></li>
+<li>💻 I was a <strong>project manager</strong> at <strong>SetupJR</strong> (2022-2023)</li>
+<li>🌎 I worked as a <strong>developer</strong> in two projects at <strong>University Without Borders</strong></li>
+<li>🗺️ Countries where I have worked I worked as a developer:
+  <ul> 
+    <li>🇧🇷 Brazil</li> 
+    <li>🇺🇸 United States</li> 
+    <li>🇵🇹 Portugal</li> 
+    <li>🇦🇺 Australia</li> 
   </ul>
 </li>
 <!-- <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/Gabriellimmaa">Github</a></li> -->
 <!-- <li>📝 Tenho um <a href="https://gabriellimaportfolio.vercel.app" target="_blank">site portfólio </a></li> -->
-<li>💬 Gosto de conversar sobre <strong>tecnologia, crescimento pessoal e empreendedorismo</strong></li>
-<li>😁 Sou bem comunicativo</li>
+<li>💬 I like to talk about <strong>technology, personal growth and entrepreneurship</strong></li>
+<li>😁 I'm very communicative</li>
 <!-- <li>📙 Confira meu <a href="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/resume.pdf" target="_blank">currículo</a></li> -->
 </ul>
-<h2>🏆 Premiações</h2>
+<h2>🏆 Awards</h2>
 <ul>
-<li>🥇  <strong>1º GeniusCon Hackathon 2022 (SEBRAE)</strong> - Projeto: Agrolugue</li>
-<li>🥇  <strong>1º Frontend Hackathon 2022</strong> - Projeto: Turismo Bandeirantes</li>
-<li>🥈  <strong>2º HandsON Hackathon 2021</strong> - Projeto: OnMaps (Remapeando campus)</li>
-<li>🥉  <strong>3º GeniusCon Hackathon 2021 (SEBRAE)</strong> - Projeto: OnMaps</li>
-<li>🥉  <strong>3º GeniusCon Hackathon 2023 (SEBRAE)</strong> - Projeto: PragaGestão</li>
-<li>🥉  <strong>4º Optimism Blockchain Hackathon 2024 (NearX)</strong> - Projeto: NFT Access Control - Nível Nacional</li>
+<li>🥇 <strong>1st GeniusCon Hackathon 2022 (SEBRAE)</strong> - Project: Agrolugue</li>
+<li>🥇 <strong>1st Frontend Hackathon 2022</strong> - Project: Bandeirantes Tourism</li>
+<li>🥈 <strong>2nd HandsON Hackathon 2021</strong> - Project: OnMaps (Remapping campus)</li>
+<li>🥉 <strong>3rd GeniusCon Hackathon 2021 (SEBRAE)</strong> - Project: OnMaps</li>
+<li>🥉 <strong>3rd GeniusCon Hackathon 2023 (SEBRAE)</strong> - Project: PragaGestão</li>
+<li>🥉 <strong>4th Optimism Blockchain Hackathon 2024 (NearX)</strong> - Project: NFT Access Control - Level National</li>
 </ul>
-<h2>🔎 Detalhes Github</h2>
+<h2>🔎 Github Details</h2>
 <div align="center">
   <a href="#"><img alt="Gabriel Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabriellimmaa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
   <a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellimmaa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabriellimmaa&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Lima" /> </p>
   <br/>
 </div>
-<h2>🚀 Tenho total domínio</h2>
+<h2>🚀 I have total control</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-<h2>🧪 Já trabalhei com</h2>
+<h2>🧪 I've worked with</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
