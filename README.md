@@ -25,7 +25,7 @@
 <li>💼 I currently work at <strong>Oneos</strong></li>
 <li>💻 I was a <strong>project manager</strong> at <strong>SetupJR</strong> (2022-2023)</li>
 <li>🌎 I worked as a <strong>developer</strong> in two projects at <strong>University Without Borders</strong></li>
-<li>🗺️ Countries where I have worked I worked as a developer:
+<li>🗺️ Countries where I have worked as a developer:
   <ul> 
     <li>🇧🇷 Brazil</li> 
     <li>🇺🇸 United States</li> 
