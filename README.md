@@ -19,10 +19,10 @@
 <img align="right" src="https://github.com/Gabriellimmaa/Gabriellimmaa/blob/main/assets/foto3.jpeg" style="border-radius: 50%;width: 250px;height: auto" />
 <h2>⚡️ Some facts about me</h2>
 <ul>
+<li>💼 I currently work at <strong>BTG Pactual</strong></li>
 <li>🎓 Graduated in <strong>computer science</strong> at <strong>UENP</strong> (2020-2023)</li>
 <li>🎓 Master's degree in <strong>computer science</strong> at <strong>USP</strong> (2025-2026)</li>
 <li>🏆 I was awarded in <strong>6 hackathons</strong>, both with <strong>web/mobile development</strong></li>
-<li>💼 I currently work at <strong>Oneos</strong></li>
 <li>💻 I was a <strong>project manager</strong> at <strong>SetupJR</strong> (2022-2023)</li>
 <li>🌎 I worked as a <strong>developer</strong> in two projects at <strong>University Without Borders</strong></li>
 <li>🗺️ Countries where I have worked as a developer:
