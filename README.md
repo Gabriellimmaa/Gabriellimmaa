@@ -50,9 +50,11 @@
 </ul>
 <h2>🔎 Github Details</h2>
 <div align="center">
-  <a href="#"><img alt="Gabriel Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabriellimmaa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-  <a href="#"><img alt="Gabriel Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellimmaa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gabriellimmaa&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Lima" /> </p>
+  <img alt="Gabriel Lima Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Gabriellimmaa&show_icons=true&theme=github_dark" height="200" />
+  <img alt="Gabriel Lima Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gabriellimmaa&layout=compact&theme=github_dark" height="200" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gabriellimmaa&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Lima" />
+  </p>
   <br/>
 </div>
 <h2>🚀 I have total control</h2>
