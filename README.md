@@ -9,7 +9,7 @@
   📌 Currently, I dedicate myself to the development of web and mobile applications, combining performance, usability and design to deliver efficient and high-impact solutions. I always seek to improve my skills and explore new technologies, transforming challenges into opportunities.
 </p>
 <div style="display: flex">
-  <a href="https://www.linkedin.com/in/gabriel-lima-5263681aa/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-lima-de-moraes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="mailto:gabriellimamoraes@gmail.com" target="_blank">
